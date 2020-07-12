@@ -12,3 +12,15 @@ For the first lessons the expectation is to go slow, get back as much as necessa
 [W] Before the end of this cycle of 7 lessons start taking notes on what failed, what could be improved and how.
 
 ## First lesson
+
+### Warm-up
+https://www.activestate.com/blog/python-vs-java-duck-typing-parsing-whitespace-and-other-cool-differences/
+
+Python as Java treat 'almost' everything as an object, both are well supported in several platforms (win, linux and macos) and both have very large and supportive communities. 
+Both languages run on virtual machine through compiled bytecode.
+
+https://pythonconquerstheuniverse.wordpress.com/2009/10/03/static-vs-dynamic-typing-of-programming-languages/
+
+zen of python
+
+ipython
